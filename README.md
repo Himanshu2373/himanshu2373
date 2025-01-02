@@ -59,6 +59,7 @@ You can email me at 8107himanshu@gmail.com or connect via my LinkedIn profile.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
+![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white" alt="PHP")
 
 
 ## ⚙️ **BACKEND DEV**
@@ -66,6 +67,7 @@ You can email me at 8107himanshu@gmail.com or connect via my LinkedIn profile.
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net-core&logoColor=white ".NET Core")
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=aspdotnet&logoColor=white "ASP.NET")
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-4B72B3?style=for-the-badge&logo=entity-framework&logoColor=white "Entity Framework")
+
 
 
 
