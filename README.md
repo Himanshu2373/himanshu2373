@@ -11,7 +11,7 @@
  # <h2 align="left">Hi 👋! My name is Himanshu Kumar.</h2>
  <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 - 💞️ I’m looking to collaborate in the field of computional Sciences
-- 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+- 📫 How to reach me 8107himanshu@gmail.com or my profile mail.
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Dheerajsingh002" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dheerajsingh002" height="150" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajsingh002">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu2373">
   
 
 
@@ -38,19 +38,18 @@
   <a href="https://www.linkedin.com/in/dheeraj-singh-8764a0222/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Dheerajsingh002" target="_blank">
+<a href="https://github.com/Himanshu2373" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:dheeraj.dheerajsingh8357@gmail.com" target="_blank">
+<a href="mailto:himanshu.8107himanshu@gmail.com " target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
  
-<a href="https://stackoverflow.com/users/20624995/2b-21-dheeraj-singh" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://www.instagram.com/d_h_e_e_r_a_j__s_i_n_g_h/" target="blank">
+
+
+<a href="https://www.instagram.com//" target="blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
