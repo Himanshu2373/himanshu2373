@@ -10,8 +10,11 @@
 
  # <h2 align="left">Hi 👋! My name is Himanshu Kumar.</h2>
  <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-- 💞️ I’m looking to collaborate in the field of computional Sciences
-- 📫 How to reach me 8107himanshu@gmail.com or my profile mail.
+💡 Exploring the Infinite Possibilities of Computational Sciences
+I’m passionate about driving innovation and solving complex problems through computational techniques. Always open to collaborations that challenge the boundaries of technology.
+
+🌐 Reach Out:
+You can email me at 8107himanshu@gmail.com or connect via my LinkedIn profile.
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
@@ -56,63 +59,40 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white ".NET")
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-4B72B3?style=for-the-badge&logo=entity-framework&logoColor=white "Entity Framework")
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white "SQL")
-![LINQ](https://img.shields.io/badge/LINQ-000000?style=for-the-badge&logo=visualstudio&logoColor=white "LINQ")
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net-core&logoColor=white ".NET Core")
 
-
-
-
-
-
-
-
-## 📱 **MOBILE DEV**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
-
-## 🍧 **DESIGN TOOLS**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
 
 ## ⚙️ **BACKEND DEV**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white ".NET")
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net-core&logoColor=white ".NET Core")
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=aspdotnet&logoColor=white "ASP.NET")
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-4B72B3?style=for-the-badge&logo=entity-framework&logoColor=white "Entity Framework")
 
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")
-![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
+
 
 ## 📅 **DATABASES**
 
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")
+
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
+![LINQ](https://img.shields.io/badge/LINQ-000000?style=for-the-badge&logo=visualstudio&logoColor=white "LINQ")
+
 
 ## 🎯 **PROGRAMMING LANGUAGES**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 ## 🛠️ **DEVOPS TOOLS**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white "Swagger")
+
+
 
 ## 📄 **CODE EDITOR & IDES**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## ☃️ **MY LEARNING RESOURCES**
 
@@ -128,18 +108,17 @@
 ###
 
 # Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajsingh002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Himanshu2373&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Dheerajsingh002/count.svg" />
+  <img src="https://profile-counter.glitch.me/Himanshu2373/count.svg" />
 </p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
-[![An image of @dheerajsingh8357's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dheerajsingh8357)](https://holopin.io/@dheerajsingh8357)
 
 
 
