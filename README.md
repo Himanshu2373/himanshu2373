@@ -17,7 +17,7 @@ I’m passionate about driving innovation and solving complex problems through c
 You can email me at 8107himanshu@gmail.com or connect via my LinkedIn profile.
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu2373&label=Profile%20views&color=129e00&style=plastic" alt="himanshu2373" /> </p>
 
 
 
